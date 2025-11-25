@@ -1,34 +1,32 @@
---[[
+--  _______ _                        
+-- (_______) |                       
+--  _____  | |_   _  ____ ____  ____ 
+-- |  ___) | | | | |/ ___) _  )/ ___)
+-- | |     | | |_| ( (__( (/ /| |    
+-- |_|     |_|\__  |\____)____)_|    
+--           (____/                  
 
- _______ _                        
-(_______) |                       
- _____  | |_   _  ____ ____  ____ 
-|  ___) | | | | |/ ___) _  )/ ___)
-| |     | | |_| ( (__( (/ /| |    
-|_|     |_|\__  |\____)____)_|    
-          (____/                  
+-- ════════════════════════════════════════════════════════════════════
+--                                Created By Flycer
+-- ════════════════════════════════════════════════════════════════════
 
-════════════════════════════════════════════════════════════════════
-                               Created By Flycer
-════════════════════════════════════════════════════════════════════
+-- File Name     :  
+-- Version       :  
+-- Description   :  
+-- Release Date  :  
+-- Last Updated  :
 
-File Name     :  
-Version       :  
-Description   :  
-Release Date  :  
-Last Updated  :
+-- ════════════════════════════════════════════════════════════════════
+--                          License & Authorization Notice
+-- ════════════════════════════════════════════════════════════════════
 
-════════════════════════════════════════════════════════════════════
-                         License & Authorization Notice
+-- This script is an official release developed and maintained by Flycer.
+-- All components have been designed through controlled processes of modification,
+-- optimization, and continuous maintenance to ensure stability and quality.
 
-This script is an official release developed and maintained by Flycer.
-All components have been designed through controlled processes of modification,
-optimization, and continuous maintenance to ensure stability and quality.
+-- Any unauthorized use, modification, duplication, or redistribution of this script
+-- is strictly prohibited without written permission from Flycer.
+-- Any attempt to bypass, decompile, disassemble, or manipulate this script
+-- by any method is considered an official violation.
 
-Any unauthorized use, modification, duplication, or redistribution of this script
-is strictly prohibited without written permission from Flycer.
-Any attempt to bypass, decompile, disassemble, or manipulate this script
-by any method is considered an official violation.
-
-© 2024 Flycer — All Rights Reserved.
-]]
+-- © 2024 Flycer — All Rights Reserved.
